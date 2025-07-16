@@ -1,0 +1,16 @@
+{
+  "name": "feedback-form-backend",
+  "version": "1.0.0",
+  "description": "Backend for the user feedback form",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.17.1",
+    "express-session": "^1.18.1",
+    "xlsx": "^0.17.0"
+  }
+}
